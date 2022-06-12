@@ -1,4 +1,9 @@
 # SkillFactory
-﻿SkillFactory
 
-Проекты и практические задания располены в соответствующих ветвях репозитория SkillFactory
+Репозиторий проектов и практических заданий SkillFactory
+
+## TASK
+
+* Task0_ML-7
+
+## PROJECT
