@@ -7,4 +7,4 @@
 * [Task0_ML-7](https://github.com/DmitryKaralko/SkillFactory/tree/main/Task0_ML-7)
 
 ## PROJECT
-* [Project 4_ML](https://github.com/DmitryKaralko/SkillFactory/tree/main/Task0_ML-7)
+* [Project_4-Classification](https://github.com/DmitryKaralko/SkillFactory/tree/main/Project_4-Classification)
